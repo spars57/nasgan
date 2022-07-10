@@ -1,0 +1,12 @@
+{
+  "rules": {
+      "semi": ["error", "always"],
+      "quotes": "off",
+      "no-unused-expressions": "error",
+      "no-unsafe-negation": "error",
+      "valid-typeof": "error",
+      "no-nonoctal-decimal-escape": "error",
+      "no-useless-escape": "error",
+      "no-var": "error"
+  }
+}
